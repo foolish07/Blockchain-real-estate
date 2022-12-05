@@ -176,4 +176,3 @@ An example transaction from start to finish proceeds as follows:-
 
 ## Video Demonstration <a name="video-demo"></a>
 
-A demo run of the entire platform simulating a real estate transaction can be seen at: https://youtu.be/it1gYBL2Uf8.
